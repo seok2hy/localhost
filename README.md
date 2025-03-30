@@ -1,8 +1,7 @@
 # localhost
 
 ### Repository 
-- [ICU Client](https://github.com/https-github-com-icu/icu-frontend) <br>
-- [ICU Server](https://github.com/https-github-com-icu/icu-backend)
+
 <br>
 <br>
  

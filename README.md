@@ -29,7 +29,7 @@
 <br>
 
 ## :memo: 개발 계획 및 일정
-![개발 계획](./images.png)
+![개발 계획](./image.png)
  <br>
  <br>
   

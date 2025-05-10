@@ -20,7 +20,7 @@
 - Framework: Spring boot (JPA)
 - SDK: 11
 - IDE: IntelliJ
-- OS: Cent OS 7
+- OS: Cent OS 7, Window OS
 - DB: MariaDB
 - VCS: SVN
 <br>
